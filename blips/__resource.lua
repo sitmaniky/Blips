@@ -1,5 +1,3 @@
-description 'Map blips created by Dunko'
+description 'Map blips created by ToKyoV2'
 
 client_script 'blips.lua'
-
-client_script "@Badger-Anticheat/acloader.lua"
