@@ -3,7 +3,7 @@ local blips = {
 	{title="<FONT FACE = 'Fire Sans'>"..'Police station', colour=29, id=60, x = -1072.7, y = -826.3, z = 5.5},
 	{title="<FONT FACE = 'Fire Sans'>"..'Custom-PDM', colour=29, id=326, x = -1026.7, y = -740.3, z = 5.5},
 }
-RegisterFontFile('Fire Sans')
+RegisterFontFile('MochiyPopOne')
 Citizen.CreateThread(function()
 
     for _, info in pairs(blips) do
